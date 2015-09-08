@@ -1,0 +1,2 @@
+# baukis
+Railsアプリサンプル
